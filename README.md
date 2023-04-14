@@ -126,6 +126,8 @@ Examples for all supported services can be found at the [API reference](https://
 
 To use the example code: copy the sample, change the parameter values to values that make sense for your use case (ex: OCI instance ID with your OCI instance ID), and then you can run the code to have a working automation against OCI.
 
+Run the Audit service example in OCI Code Editor: [![Open in Code Editor](https://github.com/varunmankal/oci-dotnet-sdk/blob/master/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=home&cs_repo_url=git@github.com:varunmankal/oci-dotnet-sdk.git&cs_branch=master&cs_readme_path=README.md&&cs_initscript_path=oci-dotnet-sdk.sln&cs_open_ce=true)
+
 ## Building and Testing
 
 ### Build
