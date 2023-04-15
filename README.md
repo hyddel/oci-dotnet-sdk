@@ -126,7 +126,7 @@ Examples for all supported services can be found at the [API reference](https://
 
 To use the example code: copy the sample, change the parameter values to values that make sense for your use case (ex: OCI instance ID with your OCI instance ID), and then you can run the code to have a working automation against OCI.
 
-Run the Audit service example in OCI Code Editor: [![Open in Code Editor](https://github.com/varunmankal/oci-dotnet-sdk/blob/master/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=home&cs_repo_url=git@github.com:varunmankal/oci-dotnet-sdk.git&cs_branch=master&cs_readme_path=README.md&&cs_initscript_path=oci-dotnet-sdk.sln&cs_open_ce=true)
+Run the Audit service example in OCI Code Editor: [![Open in Code Editor](https://github.com/varunmankal/oci-dotnet-sdk/blob/main/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=test","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"test","cse-enabled":"true"}}&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasehucyhfk3e4vquynnpn5aiahxynizti7asmjyggghner5dfjl3q&cs_repo_url=https://github.com/varunmankal/oci-dotnet-sdk.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=main&cs_initscript_path=run-audit-example.sh)
 
 ## Building and Testing
 
