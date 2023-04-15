@@ -2,4 +2,4 @@
 
 make build
 cd Examples
-dotnet AuditExample
+dotnet run
