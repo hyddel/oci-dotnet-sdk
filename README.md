@@ -8,7 +8,7 @@ The project is open source and maintained by Oracle Corp.
 
 ## Open in Code Editor:
 
-Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/oci-dotnet-sdk/blob/main/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&configoverride={"plugins":{"cloudshell":{"name":"cloudshell","path":"/cloudshell","url":"https://cloud-staging.oracle.com/plugins/cloudshell/latest/staging-oc1-index.tpl.html?cloudshellBackend=test","type":"Sandbox"}},"features":{"code-editor":true,"cloudshellBackend":"test","cse-enabled":"true"}}&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/hyddel/oci-dotnet-sdk.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=main&cs_initscript_path=run-audit-example.sh)
+Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/oci-dotnet-sdk/blob/main/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/hyddel/oci-dotnet-sdk.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=main&cs_initscript_path=run-audit-example.sh)
 
 ## Dependencies
 
