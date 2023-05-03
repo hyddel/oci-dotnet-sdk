@@ -10,6 +10,10 @@ The project is open source and maintained by Oracle Corp.
 
 Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/oci-dotnet-sdk/blob/main/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaau2kvkmgovgfzrfnuhh47x3kxmtkuqe6hzsfby5yst2hhr5comnda&cs_repo_url=https://github.com/hyddel/oci-dotnet-sdk.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=main&cs_initscript_path=run-audit-example.sh)
 
+## Open in Code Editor:(uses Fahd's team tenancy)
+
+Open the repository in OCI Code Editor: [![Open in Code Editor](https://github.com/hyddel/oci-dotnet-sdk/blob/main/ccl-image-3.png?raw=true)](https://cloud.oracle.com/?region=us-ashburn-1&tenant=bmc_operator_access&provider=ocna-saml&override_tenant=ocid1.tenancy.oc1..aaaaaaaasu7rvefmsyk5kqczfmdqi5clpddejfjk2attdqnk6sbk72wajq5q&cs_repo_url=https://github.com/hyddel/oci-dotnet-sdk.git&cs_open_ce=true&cs_readme_path=README.md&cs_branch=main&cs_initscript_path=run-audit-example.sh)
+
 ## Dependencies
 
 - [.NETStandard 2.0](https://dotnet.microsoft.com/platform/dotnet-standard)
